@@ -6,7 +6,8 @@
       "Bash(ssh-keygen *)",
       "Bash(ssh *)",
       "Bash(ssh-keyscan github.com)",
-      "Bash(ssh-add *)"
+      "Bash(ssh-add *)",
+      "Bash(curl *)"
     ]
   }
 }

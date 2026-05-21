@@ -1,0 +1,1 @@
+这是一个claude code 测试
