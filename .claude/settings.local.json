@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git *)",
+      "Bash(gh *)",
+      "Bash(ssh-keygen *)",
+      "Bash(ssh *)",
+      "Bash(ssh-keyscan github.com)",
+      "Bash(ssh-add *)"
+    ]
+  }
+}
